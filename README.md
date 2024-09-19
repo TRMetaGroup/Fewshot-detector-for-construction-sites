@@ -12,7 +12,7 @@ While our primary focus is on construction site datasets, we recognize the impor
 
 The results of our experiments on the COCO dataset are presented in the table below:  
 
-![Comparison of Few-shot Detection Performance on COCO](images/comparison.pdf)  
+![Comparison of Few-shot Detection Performance on COCO](images/comparison.png)  
 
 Key findings:  
 - Our method consistently outperforms Meta-DETR across different shot configurations.  
